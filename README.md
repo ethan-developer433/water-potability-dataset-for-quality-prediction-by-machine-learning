@@ -3,16 +3,16 @@ The dataset consists of water quality measurements for approximately 2,500 sampl
 
 **Feature Attributes**
 The dataset includes the following columns:
-**ph:** The pH level of the water, indicating its acid-base balance.
-**Hardness:** The concentration of calcium and magnesium salts in the water.
-**Solids (Total Dissolved Solids): **The concentration of dissolved substances in the water, measured in ppm.
-**Chloramines:** The amount of Chloramines present in the water.
-**Sulfate:** The concentration of sulfates dissolved in the water.
-**Conductivity: **The electrical conductivity of the water.
-**Organic_carbon: **The amount of organic carbon present in the water.
-**Trihalomethanes: **The concentration of Trihalomethanes.
-**Turbidity:** A measure of light-emitting properties indicating water clarity.
-**Potability (Target): **A binary classification where 1 indicates potable and 0 indicates non-potable.
+ph: The pH level of the water, indicating its acid-base balance.
+Hardness: The concentration of calcium and magnesium salts in the water.
+Solids (Total Dissolved Solids): The concentration of dissolved substances in the water, measured in ppm.
+Chloramines: The amount of Chloramines present in the water.
+Sulfate: The concentration of sulfates dissolved in the water.
+Conductivity: The electrical conductivity of the water.
+Organic_carbon: The amount of organic carbon present in the water.
+Trihalomethanes: The concentration of Trihalomethanes.
+Turbidity: A measure of light-emitting properties indicating water clarity.
+Potability (Target): A binary classification where 1 indicates potable and 0 indicates non-potable.
 
 **Key Features for Predicting Potability**
 Through statistical analysis and feature evaluation, the following attributes have been identified as the most significant predictors of water safety within this dataset:
